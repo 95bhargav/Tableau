@@ -55,19 +55,22 @@ Let's get started with our visualizations. Here I will show in breif how I creat
 
 ## 6. Custom Chart selector
 - First create a parameter for data type string and add the values in form of list.
-here
+![alt text]( https://github.com/95bhargav/Tableau/blob/master/images/Parameter.png "Parameter")
 
 - Create a Dimension "select a chart" to override this parameter and add [parameter name] to calculation.
-here
+![alt text]( https://github.com/95bhargav/Tableau/blob/master/images/Screenshot%202021-03-10%20005150.png "Select a Chart")
 
 - In Parameters allow parameter control so that the filter control can be seen.
+![alt text]( https://github.com/95bhargav/Tableau/blob/master/images/Capture.PNG "Filter")
 
-- Select the chart type and go to the workbook and add select a chart to filter and select the respective chart name for filter and follow the same for other charts and then you have a custom filter for showing different charts.
+- Select the chart type and go to the respective workbook and add select a chart to filter and select the respective chart name for filter and follow the same for other charts and then you have a custom filter for showing different charts.
+![alt text]( https://github.com/95bhargav/Tableau/blob/master/images/Screenshot%202021-03-10%20005247.png "Setting up custom Filter")
+
 
 ## 7. The Final Dashboard.
 Add the charts and filters to dashboard and your final dashboard should be something like this.
 
-
+![alt text]( https://github.com/95bhargav/Tableau/blob/master/images/Dashboard.png "Dashboard")
 
 
 ### This was a simple demo of creating a dashboard for your Analysis. I have attached the twbx file here. Have a look for more information on calculations of custom dimensions and measures.
