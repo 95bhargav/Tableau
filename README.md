@@ -23,7 +23,9 @@ Let's get started with our visualizations. Here I will show in breif how I creat
 - Build a chart by dragging created year to columns and sum of number of records to rows
 - Year and sum of records should be discrete and calculate rank using quick table calculations. Right click on sum of records and in compute using use complaint type to calculate ranks for each year for different complaint types.
 - Add complaint type for marks by colour and Min of sum of records for size. Make sure that bar is selected.
-- The result should look something like this
+- The result should look something like this.
+
+![alt text]( https://github.com/95bhargav/Tableau/blob/master/images/Ranking%20over%20time%20box.png "Ranking over Time")
 
 ## 3. Slope chart 
 - Change created date by year to discrete and  apply same to filter section selecting 2011 and 2016 as the years.
@@ -31,11 +33,15 @@ Let's get started with our visualizations. Here I will show in breif how I creat
 - Add labels to the mark option and select label and use line end option in label to display names on both sides.
 -  The result shold look somethingg like this
 
+![alt text]( https://github.com/95bhargav/Tableau/blob/master/images/Slope%20Chart.png "Slope Chart")
+
 ## 4. Bump Chart
 - It is quite similar to Slope chart only difference is that it is applide to year as a continous column.
 - Press ctrl and sum of records in column and drag it side by side. 
 - Right click on header and convert to dual axis and synchronise it.
-- Use marker type circle for one and output should be like this.
+- Use marker type circle for one axis and output should be like this.
+
+![alt text]( https://github.com/95bhargav/Tableau/blob/master/images/Bump%20Chart.png "Bump Chart")
 
 ## 5. Control Chart
 - Add created date by year and convert it to discrete and also add months in the columns. Add Number of records to rows
@@ -44,6 +50,8 @@ Let's get started with our visualizations. Here I will show in breif how I creat
 - Add the custom made functions Lower limit and upper limit to the marks and go back to analytics pane to and add Reference band at lower limit and upper limit
 - Add again Number of records to the rows and add synchronize it to previous axis. Add another custom made measure Control limit to find outliers.
 - The Final result should look like this.
+
+![alt text]( https://github.com/95bhargav/Tableau/blob/master/images/Control%20Chart.png "Control Chart")
 
 ## 6. Custom Chart selector
 - First create a parameter for data type string and add the values in form of list.
