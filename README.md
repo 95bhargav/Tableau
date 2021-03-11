@@ -16,6 +16,7 @@ Let's get started with our visualizations. Here I will show in breif how I creat
 - Build a simple line chart of Sum of number of records by complaint type against Created date column.
 - Add last value to rows along with last point. (Last point and number of records should share axis)
 - The result should look something like this.
+
 ![alt text]( https://github.com/95bhargav/Tableau/blob/master/images/Noise%20Complaints%20Line%20Graph.png "Noise Complaint Chart")
 
 ## 2. Ranking chart
