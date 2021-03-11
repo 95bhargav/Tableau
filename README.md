@@ -73,5 +73,5 @@ Add the charts and filters to dashboard and your final dashboard should be somet
 ![alt text]( https://github.com/95bhargav/Tableau/blob/master/images/Dashboard.png "Dashboard")
 
 
-### This was a simple demo of creating a dashboard for your Analysis. I have attached the twbx file here. Have a look for more information on calculations of custom dimensions and measures.
+### This was a simple demo of creating a dashboard for your Analysis. I have attached the twbx file. Have a look for more information on calculations of custom dimensions and measures.
 
